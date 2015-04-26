@@ -36,6 +36,8 @@ brew 'ag'
   brew 'xz'
 brew 'ghq'
 brew 'peco'
+# tempolary
+brew 'sha256sum'
 # for cask
 brew 'brew-cask'
 

@@ -46,6 +46,7 @@ cask 'google-chrome'
 cask 'google-hangouts'
 cask 'slack'
 # fav
+cask 'sequel-pro'
 cask 'trailer-fix'
 cask 'atom'
 cask 'google-japanese-ime'

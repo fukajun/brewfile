@@ -3,8 +3,9 @@
 #
 tap 'caskroom/cask'
 tap 'homebrew/bundle'
-tap 'motemen/ghq' # for ghq
-tap 'peco/peco'   # for peco
+tap 'motemen/ghq'   # for ghq
+tap 'peco/peco'     # for peco
+tap 'fukajun/cask'  # for trailer-fix
 
 #
 # brew
@@ -45,6 +46,7 @@ cask 'google-chrome'
 cask 'google-hangouts'
 cask 'slack'
 # fav
+cask 'trailer-fix'
 cask 'atom'
 cask 'google-japanese-ime'
 cask 'karabiner'

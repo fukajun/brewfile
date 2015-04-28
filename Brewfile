@@ -45,6 +45,7 @@ cask 'github'
 cask 'google-chrome'
 cask 'google-hangouts'
 cask 'slack'
+cask 'cyberduck'
 # fav
 cask 'sequel-pro'
 cask 'trailer-fix'

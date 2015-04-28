@@ -41,6 +41,7 @@ brew 'brew-cask'
 
 #
 # cask
+# dev
 cask 'github'
 cask 'google-chrome'
 cask 'google-hangouts'
@@ -54,6 +55,7 @@ cask 'atom'
 cask 'google-japanese-ime'
 cask 'karabiner'
 cask 'dropbox'
+cask 'box-sync'
 cask 'iterm2'
 cask 'bettertouchtool'
 cask 'night-owl' # yorufukurou

@@ -51,6 +51,7 @@ cask 'google-hangouts'
 cask 'slack'
 cask 'cyberduck'
 # fav
+cask 'growlnotify'
 cask 'dash'
 cask 'sequel-pro'
 cask 'trailer-fix'

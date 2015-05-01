@@ -52,6 +52,7 @@ cask 'slack'
 cask 'cyberduck'
 # fav
 cask 'growlnotify'
+cask 'keyboard-cleaner'
 cask 'dash'
 cask 'sequel-pro'
 cask 'trailer-fix'

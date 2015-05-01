@@ -26,6 +26,7 @@ brew 'qt4'
 # fav
 brew 'zsh'
   brew 'gdbm'
+brew 'wget'
 brew 'tmux'
   brew 'qt'
   brew 'node'

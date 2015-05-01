@@ -24,6 +24,8 @@ brew 'mysql'
 # for webkit
 brew 'qt4'
 # fav
+brew 'zsh'
+  brew 'gdbm'
 brew 'tmux'
   brew 'qt'
   brew 'node'

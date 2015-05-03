@@ -11,13 +11,17 @@ tap 'fukajun/cask'  # for trailer-fix
 # brew
 brew 'git'
 brew 'imagemagick'
-brew 'nodejs'
 brew 'rbenv'
 brew 'ruby-build'
 brew 'rbenv-default-gems'
 brew 'phantomjs'
 brew 'readline'
 brew 'openssl'
+# for gihub
+brew 'hub'
+# for node
+brew 'nodejs'
+brew 'bower'
 # for database
 brew 'postgresql'
 brew 'mysql'

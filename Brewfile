@@ -21,7 +21,6 @@ brew 'openssl'
 brew 'hub'
 # for node
 brew 'nodejs'
-brew 'bower'
 # for database
 brew 'postgresql'
 brew 'mysql'

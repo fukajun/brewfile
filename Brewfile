@@ -54,6 +54,7 @@ cask 'google-hangouts'
 cask 'slack'
 cask 'cyberduck'
 # fav
+cask 'popclip'
 cask 'growlnotify'
 cask 'keyboard-cleaner'
 cask 'dash'

@@ -75,3 +75,4 @@ cask 'keepassx'
 cask 'hyperswitch'
 cask 'imageoptim'
 cask 'tomighty'          # for pomodoro technique
+#cask 'notestab' # install from app store

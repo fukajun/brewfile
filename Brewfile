@@ -42,6 +42,8 @@ brew 'ag'
   brew 'xz'
 brew 'ghq'
 brew 'peco'
+# for heroku
+brew 'heroku-toolbelt'
 # for cask
 brew 'brew-cask'
 

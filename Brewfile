@@ -74,3 +74,4 @@ cask 'night-owl' # yorufukurou
 cask 'keepassx'
 cask 'hyperswitch'
 cask 'imageoptim'
+cask 'tomighty'          # for pomodoro technique

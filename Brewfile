@@ -70,9 +70,9 @@ cask 'dropbox'
 cask 'box-sync'
 cask 'iterm2'
 cask 'bettertouchtool'
-cask 'night-owl' # yorufukurou
-cask 'keepassx'
-cask 'hyperswitch'
-cask 'imageoptim'
+cask 'night-owl'         # yorufukurou
+cask 'keepassx'          # for manage account and password
+cask 'hyperswitch'       # windows like window switch
+cask 'imageoptim'        # compress image
 cask 'tomighty'          # for pomodoro technique
 #cask 'notestab' # install from app store

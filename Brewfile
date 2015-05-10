@@ -74,5 +74,6 @@ cask 'night-owl'         # yorufukurou
 cask 'keepassx'          # for manage account and password
 cask 'hyperswitch'       # windows like window switch
 cask 'imageoptim'        # compress image
+cask 'clipmenu'          # clipboard extend
 cask 'tomighty'          # for pomodoro technique
 #cask 'notestab' # install from app store

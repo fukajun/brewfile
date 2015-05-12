@@ -28,6 +28,8 @@ brew 'postgresql'
 brew 'mysql'
 # for webkit
 brew 'qt4'
+# for libv8 gem
+brew 'v8'
 # fav
 brew 'zsh'
   brew 'gdbm'

@@ -59,6 +59,7 @@ cask 'google-chrome'
 cask 'google-hangouts'
 cask 'slack'
 cask 'cyberduck'
+cask 'skype'
 # fav
 cask 'popclip'
 cask 'growlnotify'

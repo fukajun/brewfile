@@ -65,7 +65,6 @@ cask 'firefox'
 cask 'popclip'
 cask 'growlnotify'
 cask 'keyboard-cleaner'
-cask 'dash'
 cask 'sequel-pro'
 cask 'trailer-fix'
 cask 'evernote'
@@ -82,5 +81,6 @@ cask 'hyperswitch'       # windows like window switch
 cask 'imageoptim'        # compress image
 cask 'clipmenu'          # clipboard extend
 cask 'tomighty'          # for pomodoro technique
+#cask 'dash'     # install from app store because license
 #cask 'notestab' # install from app store
 #cask 'display-menu' # https://itunes.apple.com/jp/app/display-menu/id549083868?mt=12

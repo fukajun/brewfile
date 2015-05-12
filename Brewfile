@@ -23,6 +23,8 @@ brew 'hub'
 brew 'nodejs'
 # for database
 brew 'postgresql'
+  brew 'autoconf'
+  brew 'pkg-config'
 brew 'mysql'
 # for webkit
 brew 'qt4'

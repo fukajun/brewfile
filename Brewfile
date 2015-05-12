@@ -60,6 +60,7 @@ cask 'google-hangouts'
 cask 'slack'
 cask 'cyberduck'
 cask 'skype'
+cask 'firefox'
 # fav
 cask 'popclip'
 cask 'growlnotify'

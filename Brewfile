@@ -82,3 +82,4 @@ cask 'imageoptim'        # compress image
 cask 'clipmenu'          # clipboard extend
 cask 'tomighty'          # for pomodoro technique
 #cask 'notestab' # install from app store
+#cask 'display-menu' # https://itunes.apple.com/jp/app/display-menu/id549083868?mt=12

@@ -80,7 +80,7 @@ cask 'keepassx'          # for manage account and password
 cask 'hyperswitch'       # windows like window switch
 cask 'imageoptim'        # compress image
 cask 'clipmenu'          # clipboard extend
-cask 'tomighty'          # for pomodoro technique
 #cask 'dash'     # install from app store because license
 #cask 'notestab' # install from app store
 #cask 'display-menu' # https://itunes.apple.com/jp/app/display-menu/id549083868?mt=12
+#cask 'Pomodoro Time' # https://itunes.apple.com/jp/app/pomodoro-time-focus-timer/id973134470?l=en&mt=12

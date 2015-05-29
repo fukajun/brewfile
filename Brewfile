@@ -80,7 +80,6 @@ cask 'firefox'
 # fav
 cask 'the-unarchiver'
 cask 'popclip'
-cask 'growlnotify'
 cask 'keyboard-cleaner'
 cask 'sequel-pro'
 cask 'trailer-fix'

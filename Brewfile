@@ -78,6 +78,7 @@ cask 'cyberduck'
 cask 'skype'
 cask 'firefox'
 # fav
+cask 'the-unarchiver'
 cask 'popclip'
 cask 'growlnotify'
 cask 'keyboard-cleaner'

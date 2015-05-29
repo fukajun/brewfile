@@ -21,6 +21,13 @@ brew 'openssl'
 brew 'hub'
 # for node
 brew 'nodejs'
+# for compile
+brew 'gcc'
+  brew 'cloog'
+  brew 'gmp'
+  brew 'isl'
+  brew 'libmpc'
+  brew 'mpfr'
 # for database
 brew 'postgresql'
   brew 'autoconf'
